@@ -2,8 +2,11 @@
 FloatingActionButton, also called FAB. It's a circular button that floats over the screen content and represents the main action of a page.
 # How to run
 git clone https://github.com/Nazira-umucyo/flutter-fab-demo.git
+
 cd flutter-fab-demo
+
 flutter pub get
+
 flutter run
 
 # Three properties used
@@ -14,6 +17,6 @@ flutter run
 3. elevation: this controls the shadow beneath the button. 
 
 # screenshoot
-![screenshot](fab demo screenshoot.jpeg)
+![screenshot](fab_demo_screenshoot.jpeg)
 
 # presentation date: 22/06/2026
