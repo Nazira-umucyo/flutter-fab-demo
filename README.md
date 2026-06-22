@@ -17,6 +17,6 @@ flutter run
 3. elevation: this controls the shadow beneath the button. 
 
 # screenshoot
-![screenshot](fab_demo_screenshoot.jpeg)
+![screenshot](fab_demo_screenshot.jpeg)
 
 # presentation date: 22/06/2026
